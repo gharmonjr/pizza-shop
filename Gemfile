@@ -16,6 +16,7 @@ gem 'webpacker', '~> 4.0'                  # Transpile app-like JavaScript. Read
 gem 'discard', '~> 1.0'                    # Allow records to be marked as discarded
 gem 'strong_migrations'                    # Prevent unsafe migrations
 gem 'kaminari'                             # Pagnation
+gem 'bulma-rails', '~> 0.8.0'              # bulma css for styling 
 
 # Reduces boot times through caching; required in config/boot.rb
 group :development, :test do
